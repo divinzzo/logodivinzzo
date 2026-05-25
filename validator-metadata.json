@@ -1,0 +1,20 @@
+{
+  "pub_key": "",
+  "name": "divinzzo",
+  "description": "Trusted by validators worldwide, Always online, Never compromised",
+  "company_name": "divinzzo",
+  "company_website": "https://www.divinzzo.xyz/",
+  "client_version": "1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/divinzzo/logodivinzzo/refs/heads/main/divinzzo.jpg",
+      "@2x": "https://raw.githubusercontent.com/divinzzo/logodivinzzo/refs/heads/main/divinzzo.jpg",
+      "@3x": "https://raw.githubusercontent.com/divinzzo/logodivinzzo/refs/heads/main/divinzzo.jpg"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/divinzzo/logodivinzzo/refs/heads/main/divinzzo.jpg",
+      "@2x": "https://raw.githubusercontent.com/divinzzo/logodivinzzo/refs/heads/main/divinzzo.jpg",
+      "@3x": "https://raw.githubusercontent.com/divinzzo/logodivinzzo/refs/heads/main/divinzzo.jpg"
+    }
+  }
+}
